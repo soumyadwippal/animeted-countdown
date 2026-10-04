@@ -83,7 +83,7 @@ I can improve this project by adding:
 
 ## 👨‍💻 Author
 
-**Soumya Dwip Pal**
+**Soumyadwip  Pal**
 
 GitHub: https://github.com/soumyadwippal
 
